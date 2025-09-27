@@ -44,7 +44,6 @@ Encourages viewing through streaks, watch challenges, and weekly recaps.
 ![Screenshot](Assets/Screenshot%202025-06-09%20153608.png)
 
 ## 📌 Project Team
-Musi-Verse was developed as a collaborative effort by:  
 - Abishek Madhav G S  
 - Abishek Vishva A  
 - Gopalakrishnan N 
